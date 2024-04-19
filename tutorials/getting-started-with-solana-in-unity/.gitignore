@@ -1,0 +1,22 @@
+
+/TextMesh Pro/
+/TextMesh Pro.meta
+*.vsconfig
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.DS_store
+*.idea
+/Library/
+/Logs/
+/Temp/
+/Builds/
+/UserSettings/
