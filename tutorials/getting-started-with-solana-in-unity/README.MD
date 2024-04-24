@@ -1,36 +1,38 @@
 # Getting started with Solana in Unity
 
-visualSilicon.com, April 2024
-
-The Solana SDK, Samples and demo code are copyright Magicblock and can be downloaded from [https://github.com/magicblock-labs/Solana.Unity-SDK.git](https://github.com/magicblock-labs/Solana.Unity-SDK.git).
-
-## What is Solana?
-
-Solana blockchain platform with a cryptocurrency of the same name. Solana (or SOL) was founded in 2017 and was designed to be faster than platforms such as Ethereum. The Solana Unity SDK allows Unity developers to integrate Solana-based features (cryptocurrency wallet, NFTs and more) into their games.
-
-## Who is this for?
-
-This tutorial is ideal for Unity game developers with a little experience with Unity and an interest in seeing what Crypto can do but not sure where to start.
-
-## How to view this guide
-
-This guide has been written in _Markdown_ format. It is best viewed in a _Markdown_ viewer.
-
-For example, in _Visual Studio Code_ on _macOS_, press _SHIFT-COMMAND-V_ to switch to _Preview_ mode. On _Windows_ or _Linux_, press _CTRL-SHIFT-V_.
+visualSilicon, April 2024, Cambridge/UK and Dubai/UAE. This tutorial is part of the [Hello Crypto](https://github.com/visualsilicon/hello-crypto) project.
 
 ## Agenda
 
 This tutorial will take you through:
 
-1. [Steps for recreating this GitHub project](#create-new-unity-project)
+1. [A short introduction](#a-short-introduction)
+1. [Steps for recreating this GitHub project](#create-a-new-unity-project)
 1. [Installation of Solana plugin for Unity](#install-solana-sdk-plugin-for-unity)
 1. [How to use the demo from the Solana SDK](#run-the-solana-demo)
 
-## Where to start
+## A short introduction
+### What is Solana?
+
+[Solana](https://en.wikipedia.org/wiki/Solana_(blockchain_platform)) is a blockchain platform which, in addition to providing a cryptocurrency, is capable of providing [Smart Contract](https://en.wikipedia.org/wiki/Smart_contract) functionality. Its native cryptocurrency is SOL - sometimes denoted as $SOL.
+
+Solana was launched in 2020 by Solana Labs and is designed to be faster than platforms such as Ethereum. The [Solana Unity SDK](https://github.com/magicblock-labs/Solana.Unity-SDK.git) allows Unity developers to integrate Solana-based features (Cryptocurrency wallets, NFTs and more) into their games.
+
+### Who is this tutorial for?
+
+This tutorial is ideal for game developers with some experience of using Unity. If you like experimenting with Web3 features in your games but not sure where to start then this tutorial is a good place to start.
+
+### How to view this guide
+
+This guide has been written in _Markdown_ format. It is best viewed in a _Markdown_ viewer.
+
+For example, in _Visual Studio Code_ on _macOS_, press _SHIFT-COMMAND-V_ to switch to _Preview_ mode. On _Windows_ or _Linux_, press _CTRL-SHIFT-V_.
+
+### Where to start
 
 To get the most from this tutorial, we recommend following all of the steps. However, to save a lot of time, you could simply download the Unity project in this GitHub. The Unity project already has the Solana SDK and Samples installed and the demo is ready to run.
 
-# Create new Unity project
+# Create a new Unity project
 
 1. Select _New project_
 
@@ -142,9 +144,13 @@ This seems to be the recommended route to installation.
 
 # Next steps
 
-Thank you for reading this tutorial. This has been a very high level guide for getting started with Solana in Unity. Hopefully you now have a good understanding for:
+Thank you for reading this tutorial.
+
+Hopefully this has helped you to gain a good understanding for:
 
 1. How to setup a Unit project and get going with Solana
-1. The basics for how to use a Solana Wallet.
+1. The basics for how to use a Solana Wallet
 
 In future tutorials, we'll dive into the specifics of Solana and explore more of how it can be used to enhance your Unity game.
+
+Please get in touch [info@visualSilicon.com](mailto:info@visualsilicon.com) to give us your feedback or to discuss your media production or development requirements.
